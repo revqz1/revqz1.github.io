@@ -15,7 +15,7 @@ const illustration = {
 
 const greeting = {
   username: "revqz",
-  title: "Hi, I'm Omri Daniel",
+  title: "Hi, I'm revqz",
   subTitle: emoji(
     "A UK-based backend Java developer specializing in DevOps and security. I build high-performance Minecraft systems, plugins, and infrastructure — designed to scale and built with a security-first mindset."
   ),
