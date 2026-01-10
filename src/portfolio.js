@@ -107,11 +107,25 @@ const workExperiences = {
       desc: "Building and maintaining Minecraft network features with a focus on performance, stability, and secure design."
     },
     {
-      role: "Developer",
+      role: "Head Developer",
       company: "HeartHeist",
       companylogo: require("./assets/images/heartheistlogo.png"),
       date: "Current",
       desc: "Developing Minecraft gameplay systems and plugins, balancing clean architecture with player-impact features."
+    },
+    { 
+      role: "Developer",
+      company: "BreezeVanilla",
+      companylogo: require("./assets/images/breezevanilla.png"),
+      date: "Current",
+      desc: "Contributing to systems around Minecraft system infrastructure. + Full tebex support."
+    },
+    {
+      role: "Developer",
+      company: "Hatchy",
+      companylogo: require("./assets/images/hatchy1.png"),
+      date: "Current",
+      desc: "Coding and contributing to systems around Minecraft system infrastructure."
     },
     {
       role: "Volunteer Support",
