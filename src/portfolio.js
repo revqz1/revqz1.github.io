@@ -1,16 +1,14 @@
-/* Change this file to get your personal Portfolio */
+
 
 import emoji from "react-easy-emoji";
 import splashAnimation from "./assets/lottie/splashAnimation";
 
-// Splash Screen
 const splashScreen = {
   enabled: true,
   animation: splashAnimation,
   duration: 2000
 };
 
-// Summary And Greeting Section
 const illustration = {
   animated: true
 };
@@ -97,37 +95,37 @@ const workExperiences = {
     {
       role: "Developer",
       company: "LeoneMC",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/leonemc.png"),
       date: "Past",
       desc: "Minecraft development work focused on systems, plugins, and server-side improvements."
     },
     {
       role: "Developer",
       company: "InvestedMC",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/invested2.png"),
       date: "Current",
       desc: "Building and maintaining Minecraft network features with a focus on performance, stability, and secure design."
     },
     {
       role: "Developer",
       company: "HeartHeist",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/heartheistlogo.png"),
       date: "Current",
       desc: "Developing Minecraft gameplay systems and plugins, balancing clean architecture with player-impact features."
     },
     {
-      role: "Developer",
+      role: "Volunteer Support",
       company: "GamerSafe",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/gamersafe.png"),
       date: "Current",
       desc: "Working on development tasks with a security-first mindset."
     },
     {
-      role: "Developer",
+      role: "Moderator",
       company: "Minehut",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/minehut.png"),
       date: "Current",
-      desc: "Developing and contributing to systems around Minecraft hosting/community infrastructure."
+      desc: "Supporting and contributing to systems around Minecraft community infrastructure."
     }
   ]
 };
